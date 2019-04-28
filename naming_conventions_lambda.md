@@ -1,1 +1,1 @@
-# INSECT Naming Conventions for Lambda Functions
+# Headless Insect Naming Conventions for Lambda Functions
