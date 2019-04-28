@@ -7,7 +7,7 @@ Headless Inexpensive Serverless E-Commerce Templates
 
 ## Dependencies
 
-* [Chalice Framework](https://github.com/aws/chalice)
+* [Serverless Microframework](https://github.com/serverless/serverless)
 
 ## High-Level Requirements
 
