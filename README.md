@@ -7,7 +7,7 @@ Headless Inexpensive Serverless E-Commerce Templates
 
 ## Dependencies
 
-* [Serverless Microframework](https://github.com/serverless/serverless)
+* TBD
 
 ## High-Level Requirements
 
